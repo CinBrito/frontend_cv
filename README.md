@@ -1,32 +1,18 @@
-## Projeto CV - Currículo Interativo
+## Responsive Resume Project
 
-Este repositório é a concretização do meu aprendizado durante as aulas de HTML e CSS. Aqui, apresento uma síntese da minha trajetória educacional e profissional transformada em uma página de website. O objetivo é evidenciar meu conhecimento em front-end, utilizando HTML para estruturação e CSS para estilização.
+This repository is the culmination of my learning journey during HTML and CSS classes. Here, I present a synthesis of my educational and professional trajectory transformed into a web page. The objective is to showcase my knowledge in front-end development, utilizing HTML for structure and CSS for styling.
 
-### Principais Aspectos do Projeto 🚀
+### Key Project Features 🚀
 
-#### Estruturação:
-- Implementação de tags semânticas para facilitar a navegação, organizar listas, estabelecer hierarquia de títulos e estruturar seções.
-- Layout eficiente com o uso de grids e uma compreensão sólida da espacialização de conteúdo.
-- Utilização inteligente de classes e ids para uma estilização coesa e apropriada.
+#### Structure:
+- Implementation of semantic tags to facilitate navigation, organize lists, establish title hierarchy, and structure sections.
+- Efficient layout using grids and a solid understanding of content spacing.
+- Smart use of classes and ids for cohesive and appropriate styling.
 
-#### Estética Visual:
-- Desenvolvimento de estilização interativa e responsiva, adaptada para proporcionar uma experiência consistente em desktops e dispositivos móveis.
-- Hierarquização cuidadosa das seções, resultando em uma organização eficaz e visibilidade aprimorada do conteúdo.
-- Conhecimento refinado na distribuição de conteúdo, resultando em um layout claro, bem dividido e esteticamente agradável.
+#### Visual Aesthetics:
+- Development of interactive and responsive styling, adapting for desktops and mobile devices.
+- Careful hierarchization of sections for effective organization and enhanced content visibility.
+- Refined content distribution, resulting in a clear, well-divided, and aesthetically pleasing layout.
 
-
-### Como Contribuir 🤝
-
-1. **Fork do Repositório:**
-   - Explore oportunidades para aprimorar o código, adicionar funcionalidades ou melhorar o design.
-
-2. **Clone o Repositório:**
-   - Configure uma cópia local para implementar suas contribuições de forma mais significativa.
-
-3. **Criação de Branch:**
-   - Trabalhe em suas alterações em uma branch separada para uma melhor organização.
-
-4. **Pull Request:**
-   - Após testar suas alterações, envie um Pull Request para avaliação e possível inclusão no projeto.
 
 
